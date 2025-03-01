@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #ghcr.io/toeverything/affine
 #dreamacro/clash
-ghcr.io/toeverything/affine-graphql:canary-d476d3b
+#ghcr.io/toeverything/affine-graphql:canary-d476d3b
+ghcr.io/toeverything/affine-graphql:stable-d57ef5c
