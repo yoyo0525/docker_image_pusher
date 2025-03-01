@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-ghcr.io/toeverything/affine-self-hosted:latest
+ghcr.io/toeverything/affine
